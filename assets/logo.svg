@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">PILI</title>
+  <desc id="desc">An orange shopping bag on cream with an ink handle and a cream P ending in a check mark.</desc>
+  <rect width="512" height="512" rx="112" fill="#f8f7f3"/>
+  <path d="M192 181v-29a64 64 0 0 1 128 0v29" fill="none" stroke="#232722" stroke-width="24" stroke-linecap="round"/>
+  <path d="M143 172h226l22 226H121z" fill="#ef6c35" stroke="#ef6c35" stroke-width="20" stroke-linejoin="round"/>
+  <path d="M214 342V226h49c54 0 54 70 0 70h-49" fill="none" stroke="#f8f7f3" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m263 330 27 27 53-58" fill="none" stroke="#f8f7f3" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
